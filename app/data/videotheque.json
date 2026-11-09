@@ -1,0 +1,50 @@
+{
+  "nom": "Vidéothèque de Caner",
+  "films": [
+    {
+      "id": 1,
+      "titre": "Lawrence d'Arabie",
+      "realisateur": "David Lean",
+      "annee": 1962,
+      "genre": "Aventure",
+      "duree": 222,
+      "support": "Blu-ray"
+    },
+    {
+      "id": 2,
+      "titre": "Heat",
+      "realisateur": "Michael Mann",
+      "annee": 1995,
+      "genre": "Policier",
+      "duree": 170,
+      "support": "DVD"
+    },
+    {
+      "id": 3,
+      "titre": "Les Affranchis",
+      "realisateur": "Martin Scorsese",
+      "annee": 1990,
+      "genre": "Policier",
+      "duree": 146,
+      "support": "Blu-ray"
+    },
+    {
+      "id": 4,
+      "titre": "Blade Runner 2049",
+      "realisateur": "Denis Villeneuve",
+      "annee": 2017,
+      "genre": "Science-fiction",
+      "duree": 164,
+      "support": "Numérique"
+    },
+    {
+      "id": 5,
+      "titre": "Se7en",
+      "realisateur": "David Fincher",
+      "annee": 1995,
+      "genre": "Thriller",
+      "duree": 127,
+      "support": "DVD"
+    }
+  ]
+}
